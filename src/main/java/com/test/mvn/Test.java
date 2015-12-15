@@ -11,5 +11,7 @@ public class Test {
         System.out.println(str1);
         System.out.println(str2);
         System.out.println(str3);
+        //误写入master上的提交
+        System.out.println(str3);
     }
 }

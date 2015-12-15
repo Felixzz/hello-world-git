@@ -13,5 +13,7 @@ public class Test {
         System.out.println(str3);
         //误写入master上的提交
         System.out.println(str3);
+        //需要保存的提交
+        System.out.println(str1);
     }
 }

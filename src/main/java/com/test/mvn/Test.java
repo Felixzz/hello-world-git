@@ -15,5 +15,7 @@ public class Test {
         System.out.println(str3);
         //需要保存的提交
         System.out.println(str1);
+        //需要保存的提交2
+        System.out.println(str1);
     }
 }
